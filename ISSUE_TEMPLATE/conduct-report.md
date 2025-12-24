@@ -11,7 +11,7 @@ body:
         感谢你花时间维护社区的健康环境。  
         本表单用于向维护团队**私密报告**不当行为。  
         **注意**：GitHub 免费版不支持完全私密 Issue，因此**请勿在此填写敏感细节（如姓名、截图、完整对话）**。  
-        如需提交证据，请通过 [Discord 向 @Community Manager 发送私信](https://discord.gg/Mu3jvzBE)。
+        如需提交证据，请通过 [Discord 向 @Community Manager 发送私信](https://discord.gg/Wa4NRgPbJW)。
 
   - type: textarea
     id: description
